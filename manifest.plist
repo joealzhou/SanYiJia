@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://sanyiyungusushe-1252579942.cos.ap-beijing.myqcloud.com/cdn/app-pic/SanYiJia.ipa?q-sign-algorithm=sha1&amp;q-ak=AKIDoT4OwFcJRkmb8jfH8k5WhtHhqjNkAi11&amp;q-sign-time=1592377514;87992377514&amp;q-key-time=1592377514;87992377514&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=ea072219af1b5fab4267c23341769a7f1669dc22</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://sanyiyungusushe-1252579942.cos.ap-beijing.myqcloud.com/cdn/app-pic/57.png?q-sign-algorithm=sha1&amp;q-ak=AKIDoT4OwFcJRkmb8jfH8k5WhtHhqjNkAi11&amp;q-sign-time=1592377101;87992377101&amp;q-key-time=1592377101;87992377101&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=adb34ecadf0c7f48579d45b9be7241f2b8506630</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://sanyiyungusushe-1252579942.cos.ap-beijing.myqcloud.com/cdn/app-pic/512.png?q-sign-algorithm=sha1&amp;q-ak=AKIDoT4OwFcJRkmb8jfH8k5WhtHhqjNkAi11&amp;q-sign-time=1592377080;87992377080&amp;q-key-time=1592377080;87992377080&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=5956ecd3a6f04ebe36a0e0a4fd3eeb463e39b754</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ruixu.sanyjia</string>
+				<key>bundle-version</key>
+				<string>1.8.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>三一家</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
